@@ -1,0 +1,16 @@
+{
+    "featureConfig": {
+        "tranfac.sensor.fingerprint.optical": "",
+        "tranfac.other.sdcard.external": "",
+        "tranfac.audio.speaker.num": "2",
+        "tranfac.audio.mic.num": "2",
+        "tranfac.usb.charge.rfc": "",
+        "tranfac.camera.dual.arcsoft": "",
+        "tranfac.camera.dummy.front": "",
+        "tranfac.camera.dummy.yuv_index": "0",
+        "tranfac.camera.dummy.yuv2_index": "0",
+        "tranfac.camera.flashlight.front": "",
+        "tranfac.connect.gps": "",
+        "tranfac.connect.fm": ""
+    }
+}
