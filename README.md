@@ -1,0 +1,20 @@
+## sys_tssi_64_armv82_tecno-user 14 UP1A.231005.007 650697 release-keys
+- Manufacturer: tecno
+- Platform: mt6893
+- Codename: TECNO-CK8n
+- Brand: TECNO
+- Flavor: sys_tssi_64_armv82_tecno-user
+- Release Version: 14
+- Kernel Version: 5.10.198
+- Id: UP1A.231005.007
+- Incremental: 240702V447
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: TECNO/CK8n-GL/TECNO-CK8n:12/SP1A.210812.016/240702V423:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_armv82_tecno-user-14-UP1A.231005.007-650697-release-keys
+- Repo: tecno_tecno-ck8n_dump

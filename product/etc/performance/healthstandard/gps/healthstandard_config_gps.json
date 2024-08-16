@@ -1,0 +1,12 @@
+{
+  "key": "feature_health_standard_gps",
+  "version_code": 1,
+  "version_name": "v1.0",
+  "gps_limit_enable": 0,
+  "gps_limit_bp_enable": 1,
+  "gps_time_threshold_one_hour": 15,
+  "gps_count_threshold_one_hour": 20,
+  "gps_limit_block_list": [
+    "com.transsion.test"
+  ]
+}

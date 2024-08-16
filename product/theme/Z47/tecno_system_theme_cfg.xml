@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Document>
+<theme-info>
+    <id>-99</id>
+    <name>Mr Doodle Edition</name>
+    <filename>PartyTheme_Z47.apk</filename>
+    <filepath>product/theme/PartyTheme_Z47/PartyTheme_Z47.apk</filepath>
+</theme-info>
+<theme-info>
+    <id>-1</id>
+    <name>HiOS</name>
+    <filename>PartyTheme.apk</filename>
+    <filepath>product/theme/PartyTheme/PartyTheme.apk</filepath>
+</theme-info>
+</Document>

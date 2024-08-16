@@ -1,0 +1,52 @@
+{
+  "version": "1.0.8",
+  "enabledSleepMaster": true,
+  "enabledAbnormalHandler": true,
+  "enabledForceStop": true,
+  "enabledForegroundForceStop": true,
+  "enabledForegroundForceRemoveWl": true,
+  "foregroundTopForceStopInterval": 60,
+  "enabledTopForegroundForceStop": true,
+  "blackPackages": [
+        "com.clean.oneboost.cleaner.onebooster.security",
+        "com.cleaner.fastcleaner.booster.security.clean",
+        "com.tencent.tmgp.pubgmhd",
+        "com.tencent.lolm",
+        "com.purple.files.manager.king",
+        "com.wavefilemaster.filemanager.wav",
+        "proxy.browser.unblock.sites.proxybrowser.unblocksites",
+        "com.roblox.client",
+        "com.aisecurity",
+        "com.duolingo",
+        "tv.africa.streaming"
+  ],
+  "forceStopPackages": [
+        "com.clean.oneboost.cleaner.onebooster.security",
+        "com.cleaner.fastcleaner.booster.security.clean",
+        "com.tencent.tmgp.pubgmhd",
+        "com.tencent.lolm",
+        "com.purple.files.manager.king",
+        "com.wavefilemaster.filemanager.wav",
+        "proxy.browser.unblock.sites.proxybrowser.unblocksites",
+        "com.roblox.client",
+        "com.aisecurity",
+        "com.duolingo",
+        "tv.africa.streaming"
+  ],
+  "forceStopForegroundPackages": [
+        "com.clean.oneboost.cleaner.onebooster.security",
+        "com.cleaner.fastcleaner.booster.security.clean",
+        "com.purple.files.manager.king",
+        "com.wavefilemaster.filemanager.wav",
+        "proxy.browser.unblock.sites.proxybrowser.unblocksites",
+        "com.roblox.client",
+        "com.aisecurity"
+  ],
+  "forceRemoveWlForegroundPackages": [
+  ],
+  "forceStopTopForegroundPackages": [
+        "com.tencent.tmgp.pubgmhd",
+        "com.tencent.lolm",
+        "proxy.browser.unblock.sites.proxybrowser.unblocksites"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "feature_health_standard_alarm",
+  "version_code": 1,
+  "version_name": "v1.0",
+  "alarm_limit_enable": 0,
+  "alarm_limit_bp_enable": 1,
+  "alarm_count_threshold_one_hour": 10,
+  "alarm_limit_block_list": [
+    "com.transsion.test"
+  ]
+}
